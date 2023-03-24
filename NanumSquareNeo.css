@@ -2,29 +2,49 @@
     font-family: 'Nanum Square Neo';
     font-weight: 300;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeoL.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoL.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoL.ttf') format('truetype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoL.woff') format('woff'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoL.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Nanum Square Neo';
     font-weight: 400;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeo.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeo.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeo.ttf') format('truetype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeo.woff') format('woff'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeo.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Nanum Square Neo';
     font-weight: 700;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeoB.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoB.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoB.ttf') format('truetype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoB.woff') format('woff'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoB.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Nanum Square Neo';
     font-weight: 800;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeoEB.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoEB.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoEB.ttf') format('truetype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoEB.woff') format('woff'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoEB.woff2') format('woff2');
 }
 @font-face {
     font-family: 'Nanum Square Neo';
     font-weight: 900;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeoBL.otf');
+    font-display: swap;
+    src: url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoBL.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoBL.ttf') format('truetype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoBL.woff') format('woff'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeoBL.woff2') format('woff2');
 }
