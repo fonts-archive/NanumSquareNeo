@@ -1,6 +1,6 @@
 # Nanum Square Neo
 
-[Visit Source](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeo.zip)
+[Visit Source](https://hangeul.naver.com/font)
 
 &nbsp;
 
@@ -15,7 +15,7 @@ font-family: 'Nanum Square Neo';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeo.css"/>
+<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeo.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeo.css');
+@import url('https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeo.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumSquareNeo/NanumSquareNeo.css
+https://cdn.statically.io/gh/fonts-archive/NanumSquareNeo/main/NanumSquareNeo.css
 ```
